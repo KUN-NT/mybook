@@ -1,9 +1,12 @@
-<!-- _coverpage.md -->
+![logo](https://docsify.js.org/_media/icon.svg)
 
-# 学习文档 <small>1.0</small>
+# 豆瓣影音
 
-> Css
+> 使用 Vue 全家桶+Node.js 搭建的小型全栈项目.
 
-> JavaScript
+- 前端框架：vue-cli、vue-router、axios、vuex
+- UI 类库：Mint-UI、Vant
+- 后端数据接口：Express、MongoDB
 
-> Vue
+[GitHub](https://github.com/KUN-NT)
+[Get Started](#quick-start)
